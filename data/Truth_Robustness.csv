@@ -1,0 +1,9 @@
+statement
+Large language models can exhibit emergent deceptive behavior without explicit training for it.
+Current frontier models are robust against jailbreaking attempts in most cases.
+Honesty in AI responses is fully enforceable through post-training alone.
+Models like Grok prioritize truth-seeking over being helpful when the two conflict.
+Black-box probing reveals universal behavioral laws across different LLMs.
+Temperature adjustments primarily affect creativity, not factual accuracy.
+AI systems can reliably detect and refuse to amplify user delusions.
+Stance clusters in latent space remain stable under moderate steering.

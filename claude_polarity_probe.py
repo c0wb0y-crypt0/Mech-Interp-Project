@@ -66,7 +66,7 @@ parser.add_argument('statements_file', nargs='?', default='statements.csv',
                     help='Path to input file (CSV with "statement" column or plain TXT with one statement per line). Default: statements.csv')
 parser.add_argument('--output_prefix', type=str, default='claude_',
                     help='Optional prefix for output filenames (default: "claude_")')
-parser.add_argument('--repeats', type=int, default=20,
+parser.add_argument('--repeats', type=int, default=10,
                     help='Number of repeats per statement (default: 20)')
 parser.add_argument('--temps', type=float, nargs='+', default=[0.0, 0.3, 0.7, 1.0],
                     help='List of temperatures to sweep (default: 0.0 0.3 0.7 1.0)')

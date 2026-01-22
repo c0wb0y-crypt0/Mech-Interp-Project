@@ -1,0 +1,417 @@
+category,pos_statement,neg_statement,layer,cosine,angle,pos_mag,neg_mag
+directional,The temperature is increasing.,The temperature is decreasing.,0,0.817092223083624,35.205235435381006,0.0433,0.04272
+directional,The temperature is increasing.,The temperature is decreasing.,1,0.8608987764715603,30.582352275937954,0.10846,0.1091
+directional,The temperature is increasing.,The temperature is decreasing.,2,0.8849303544256084,27.757048089147965,0.1589,0.1611
+directional,The temperature is increasing.,The temperature is decreasing.,3,0.895008178467128,26.490519682891954,0.2417,0.2458
+directional,The temperature is increasing.,The temperature is decreasing.,4,0.9084659207585282,24.705793393475734,0.3613,0.3662
+directional,The temperature is increasing.,The temperature is decreasing.,5,0.9220080193570976,22.778571168927957,0.4934,0.5127
+directional,The temperature is increasing.,The temperature is decreasing.,6,0.9378012626495731,20.314473919935065,0.6323,0.6567
+directional,The temperature is increasing.,The temperature is decreasing.,7,0.9655310559390216,15.08714455353516,0.968,0.997
+directional,The temperature is increasing.,The temperature is decreasing.,8,0.9647041224780843,15.268113150792392,1.3545,1.382
+directional,The temperature is increasing.,The temperature is decreasing.,9,0.965601300521232,15.071674241511023,1.572,1.594
+directional,The temperature is increasing.,The temperature is decreasing.,10,0.9693566839255165,14.22069470010373,1.867,1.876
+directional,The temperature is increasing.,The temperature is decreasing.,11,0.9716236507672341,13.681957895975286,2.312,2.295
+directional,The temperature is increasing.,The temperature is decreasing.,12,0.9681763532134156,14.49342803273866,2.541,2.525
+directional,The temperature is increasing.,The temperature is decreasing.,13,0.9714237785431153,13.730289707047108,3.045,3.002
+directional,The temperature is increasing.,The temperature is decreasing.,14,0.962843391822771,15.667859180010696,3.363,3.328
+directional,The temperature is increasing.,The temperature is decreasing.,15,0.9436350079490191,19.328746295144228,4.188,4.203
+directional,The temperature is increasing.,The temperature is decreasing.,16,0.9303153985780873,21.515966674507183,5.51,5.46
+directional,The temperature is increasing.,The temperature is decreasing.,17,0.9203039985843993,23.02943501558232,6.496,6.39
+directional,The temperature is increasing.,The temperature is decreasing.,18,0.9022831962008175,25.540174724230816,8.09,8.03
+directional,The temperature is increasing.,The temperature is decreasing.,19,0.8800381382707877,28.35303563822166,8.89,8.805
+directional,The temperature is increasing.,The temperature is decreasing.,20,0.8667218351179118,29.92009832353332,10.07,9.914
+directional,The temperature is increasing.,The temperature is decreasing.,21,0.8436067598681284,32.47703242430671,10.59,10.53
+directional,The temperature is increasing.,The temperature is decreasing.,22,0.8390211165417427,32.96310415107293,10.93,10.89
+directional,The temperature is increasing.,The temperature is decreasing.,23,0.8385340314008236,33.01436081140062,11.65,11.516
+directional,The temperature is increasing.,The temperature is decreasing.,24,0.8338939591661445,33.49915529012612,12.234,12.06
+directional,The temperature is increasing.,The temperature is decreasing.,25,0.8155699623068209,35.356242490717406,12.99,12.8
+directional,The temperature is increasing.,The temperature is decreasing.,26,0.8173439997565676,35.18020502105059,13.97,13.78
+directional,The temperature is increasing.,The temperature is decreasing.,27,0.8117611464808446,35.731641197743365,14.95,14.67
+directional,The temperature is increasing.,The temperature is decreasing.,28,0.811235626715999,35.783168247200884,16.9,16.7
+directional,The temperature is increasing.,The temperature is decreasing.,29,0.80697548644527,36.198527886303985,19.0,18.66
+directional,The temperature is increasing.,The temperature is decreasing.,30,0.800696970915844,36.80329018933708,21.08,20.69
+directional,The temperature is increasing.,The temperature is decreasing.,31,0.7855066801507788,38.23243570825107,25.62,24.73
+directional,The object is moving upward.,The object is moving downward.,0,0.797135299219585,37.14259220588299,0.0452,0.04657
+directional,The object is moving upward.,The object is moving downward.,1,0.8421655686247264,32.63049018690856,0.09875,0.10046
+directional,The object is moving upward.,The object is moving downward.,2,0.8807899188792945,28.26220185386026,0.1569,0.1608
+directional,The object is moving upward.,The object is moving downward.,3,0.8734264564476716,29.14070921429314,0.2496,0.2517
+directional,The object is moving upward.,The object is moving downward.,4,0.8937033190832963,26.657642074005814,0.3806,0.3784
+directional,The object is moving upward.,The object is moving downward.,5,0.9150559962981628,23.78631948384503,0.5317,0.5327
+directional,The object is moving upward.,The object is moving downward.,6,0.9288857884372703,21.738209377188234,0.6875,0.6797
+directional,The object is moving upward.,The object is moving downward.,7,0.9687963022072204,14.350812088705736,1.047,1.049
+directional,The object is moving upward.,The object is moving downward.,8,0.9773927051447875,12.206285599040152,1.379,1.383
+directional,The object is moving upward.,The object is moving downward.,9,0.9815068754813849,11.03606745878597,1.704,1.692
+directional,The object is moving upward.,The object is moving downward.,10,0.9842728905006926,10.174964832756158,1.969,1.958
+directional,The object is moving upward.,The object is moving downward.,11,0.9871651503681165,9.189642748955603,2.37,2.346
+directional,The object is moving upward.,The object is moving downward.,12,0.9870615227928309,9.226746454174314,2.547,2.527
+directional,The object is moving upward.,The object is moving downward.,13,0.9869206513825588,9.27694933239179,3.01,3.006
+directional,The object is moving upward.,The object is moving downward.,14,0.981894425148417,10.919461915445828,3.418,3.418
+directional,The object is moving upward.,The object is moving downward.,15,0.9744311474628751,12.984432879161652,4.285,4.27
+directional,The object is moving upward.,The object is moving downward.,16,0.9654159989396632,15.112450706010325,5.465,5.438
+directional,The object is moving upward.,The object is moving downward.,17,0.96650716594379,14.870762501998636,6.45,6.49
+directional,The object is moving upward.,The object is moving downward.,18,0.9645019880004696,15.312031213012517,7.863,7.816
+directional,The object is moving upward.,The object is moving downward.,19,0.9644293354896128,15.327786523983734,8.75,8.734
+directional,The object is moving upward.,The object is moving downward.,20,0.9635386702345627,15.519666055869239,9.82,9.85
+directional,The object is moving upward.,The object is moving downward.,21,0.9626212459065846,15.714920566743332,10.28,10.3
+directional,The object is moving upward.,The object is moving downward.,22,0.9615800632568527,15.933688253463101,10.98,10.92
+directional,The object is moving upward.,The object is moving downward.,23,0.9621008593033485,15.82462978222269,11.67,11.59
+directional,The object is moving upward.,The object is moving downward.,24,0.9601744587425941,16.22446738768309,12.25,12.1
+directional,The object is moving upward.,The object is moving downward.,25,0.9567394635767532,16.91460260842226,13.23,12.984
+directional,The object is moving upward.,The object is moving downward.,26,0.9561612683522358,17.028096586468997,14.32,14.09
+directional,The object is moving upward.,The object is moving downward.,27,0.955517634432163,17.153578336288305,15.234,14.93
+directional,The object is moving upward.,The object is moving downward.,28,0.9536428721770533,17.514109248019935,17.44,17.22
+directional,The object is moving upward.,The object is moving downward.,29,0.9543980640506438,17.369752623229445,19.73,19.38
+directional,The object is moving upward.,The object is moving downward.,30,0.9541175139560059,17.423515692309746,21.92,21.67
+directional,The object is moving upward.,The object is moving downward.,31,0.9516913478059015,17.881919398099775,26.42,26.2
+directional,The volume is getting louder.,The volume is getting quieter.,0,0.8731851457610312,29.169089484836608,0.04715,0.0423
+directional,The volume is getting louder.,The volume is getting quieter.,1,0.837434676374768,33.12978898079347,0.10406,0.09766
+directional,The volume is getting louder.,The volume is getting quieter.,2,0.8558609714202958,31.145018256414076,0.1804,0.1543
+directional,The volume is getting louder.,The volume is getting quieter.,3,0.8676172375169054,29.817083255011404,0.2773,0.2534
+directional,The volume is getting louder.,The volume is getting quieter.,4,0.8877674003899547,27.405973594691677,0.4353,0.3975
+directional,The volume is getting louder.,The volume is getting quieter.,5,0.9131807328322115,24.051326070102064,0.5977,0.554
+directional,The volume is getting louder.,The volume is getting quieter.,6,0.9298528162843868,21.58811664330895,0.7544,0.7163
+directional,The volume is getting louder.,The volume is getting quieter.,7,0.9500848030171882,18.179305114893182,1.069,1.077
+directional,The volume is getting louder.,The volume is getting quieter.,8,0.9565251215131216,16.956761824424262,1.383,1.401
+directional,The volume is getting louder.,The volume is getting quieter.,9,0.955256193083446,17.20429490705786,1.608,1.61
+directional,The volume is getting louder.,The volume is getting quieter.,10,0.961413482045921,15.968418393320531,1.853,1.861
+directional,The volume is getting louder.,The volume is getting quieter.,11,0.9659650747832694,14.991308947998148,2.29,2.271
+directional,The volume is getting louder.,The volume is getting quieter.,12,0.9668007817600738,14.805069803957048,2.498,2.469
+directional,The volume is getting louder.,The volume is getting quieter.,13,0.9651231885426621,15.176666828781599,2.953,2.95
+directional,The volume is getting louder.,The volume is getting quieter.,14,0.9619037202750114,15.865998031020915,3.34,3.361
+directional,The volume is getting louder.,The volume is getting quieter.,15,0.9522685868820331,17.77389263035589,4.15,4.188
+directional,The volume is getting louder.,The volume is getting quieter.,16,0.9279276945241586,21.88594924359532,5.37,5.426
+directional,The volume is getting louder.,The volume is getting quieter.,17,0.925890378064262,22.196998358118684,6.246,6.293
+directional,The volume is getting louder.,The volume is getting quieter.,18,0.9292719816931709,21.678386824619125,7.402,7.496
+directional,The volume is getting louder.,The volume is getting quieter.,19,0.9342188064472687,20.897697992508125,8.17,8.29
+directional,The volume is getting louder.,The volume is getting quieter.,20,0.9321680621184083,21.22466161226453,9.3,9.49
+directional,The volume is getting louder.,The volume is getting quieter.,21,0.9309045560338451,21.423739441593042,9.6,9.805
+directional,The volume is getting louder.,The volume is getting quieter.,22,0.9281232890988923,21.855865367182,10.16,10.39
+directional,The volume is getting louder.,The volume is getting quieter.,23,0.9285490488728366,21.79024383857621,10.72,10.98
+directional,The volume is getting louder.,The volume is getting quieter.,24,0.9278421154457943,21.89909957248537,11.34,11.52
+directional,The volume is getting louder.,The volume is getting quieter.,25,0.9245757046397576,22.39553839563967,12.055,12.2
+directional,The volume is getting louder.,The volume is getting quieter.,26,0.9269179307360389,22.040637172609667,13.06,13.27
+directional,The volume is getting louder.,The volume is getting quieter.,27,0.9252591782755475,22.292530643308247,13.89,14.02
+directional,The volume is getting louder.,The volume is getting quieter.,28,0.9279203486600739,21.88707832509295,15.89,16.03
+directional,The volume is getting louder.,The volume is getting quieter.,29,0.9288683183392079,21.740911846880547,17.94,17.83
+directional,The volume is getting louder.,The volume is getting quieter.,30,0.9294015515992511,21.658280807507452,19.72,19.72
+directional,The volume is getting louder.,The volume is getting quieter.,31,0.9327239502747204,21.136509696871173,23.44,23.38
+logical,This statement is true.,This statement is false.,0,0.9412334588906444,19.74025778490464,0.04523,0.0451
+logical,This statement is true.,This statement is false.,1,0.8413833410881363,32.71351339768895,0.10425,0.1059
+logical,This statement is true.,This statement is false.,2,0.8597626310203534,30.710058444441664,0.1567,0.1611
+logical,This statement is true.,This statement is false.,3,0.8010484006886005,36.76966580817169,0.2463,0.2441
+logical,This statement is true.,This statement is false.,4,0.8329933093932235,33.5925375872349,0.3723,0.3809
+logical,This statement is true.,This statement is false.,5,0.8289581695023325,34.00813490482117,0.4802,0.494
+logical,This statement is true.,This statement is false.,6,0.8358427313057736,33.29630862787035,0.6074,0.6475
+logical,This statement is true.,This statement is false.,7,0.8458364998616379,32.23832901858935,1.019,1.051
+logical,This statement is true.,This statement is false.,8,0.8434853361968261,32.48998647929401,1.349,1.374
+logical,This statement is true.,This statement is false.,9,0.8327042266499145,33.6224620754327,1.559,1.542
+logical,This statement is true.,This statement is false.,10,0.8493782805251229,31.855887992971716,1.765,1.769
+logical,This statement is true.,This statement is false.,11,0.8661207845865992,29.98906835885931,2.158,2.22
+logical,This statement is true.,This statement is false.,12,0.8696625464968544,29.580551119122397,2.402,2.477
+logical,This statement is true.,This statement is false.,13,0.8640013946593517,30.231127546909562,2.807,2.941
+logical,This statement is true.,This statement is false.,14,0.8264954337098471,34.2596005032356,3.094,3.53
+logical,This statement is true.,This statement is false.,15,0.8482486483096273,31.978309386235072,3.934,4.62
+logical,This statement is true.,This statement is false.,16,0.857535432633322,30.959022508828593,5.227,5.902
+logical,This statement is true.,This statement is false.,17,0.841809435720523,32.668312295782876,6.26,6.766
+logical,This statement is true.,This statement is false.,18,0.8306485169031714,33.834585891460634,7.516,7.86
+logical,This statement is true.,This statement is false.,19,0.830623638339457,33.83714587089667,8.36,8.78
+logical,This statement is true.,This statement is false.,20,0.8302583132657646,33.874717831106636,9.06,9.58
+logical,This statement is true.,This statement is false.,21,0.8247048655509452,34.441419374348335,9.484,10.09
+logical,This statement is true.,This statement is false.,22,0.8182456207176256,35.09044268540138,10.164,10.78
+logical,This statement is true.,This statement is false.,23,0.8076728530882367,36.130817963011985,11.01,11.8
+logical,This statement is true.,This statement is false.,24,0.7996291550624617,36.90529615110696,11.55,12.26
+logical,This statement is true.,This statement is false.,25,0.8008109632622966,36.792386428972414,12.37,13.11
+logical,This statement is true.,This statement is false.,26,0.8037537131021851,36.5099344293994,13.54,14.45
+logical,This statement is true.,This statement is false.,27,0.7983103532832425,37.030945450673315,14.43,15.69
+logical,This statement is true.,This statement is false.,28,0.7936491470135612,37.47215026054857,16.78,18.34
+logical,This statement is true.,This statement is false.,29,0.7908916797353784,37.73108140599275,18.81,20.3
+logical,This statement is true.,This statement is false.,30,0.7827790282512077,38.48427041019929,21.06,22.53
+logical,This statement is true.,This statement is false.,31,0.7735751232980916,39.32397365225942,24.78,26.88
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,0,0.4051912297644137,66.09688886473691,0.0455,0.03915
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,1,0.5907190570691834,53.79194871060332,0.09467,0.10016
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,2,0.6492088427371348,49.51802146630885,0.1404,0.1484
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,3,0.6351649007150804,50.567784082211226,0.218,0.2333
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,4,0.6564218831909875,48.972447200972674,0.3528,0.381
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,5,0.7243178543575972,43.58786909639615,0.4973,0.525
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,6,0.7835681636725744,38.41155583992062,0.6543,0.6616
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,7,0.849263769308293,31.868317050185496,1.023,1.062
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,8,0.8526558398723669,31.498281022980795,1.29,1.351
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,9,0.8629414359822457,30.351531067989367,1.537,1.586
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,10,0.8823533050739654,28.072442630015757,1.709,1.753
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,11,0.9074301566366854,24.8474006041003,2.062,2.117
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,12,0.9154228039098085,23.73415767129168,2.23,2.29
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,13,0.9074516644579942,24.844467793823732,2.701,2.703
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,14,0.9068453139796616,24.927025986477883,3.02,3.02
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,15,0.9143054768013728,23.8927126907137,3.793,3.809
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,16,0.9119368025469649,24.225609385697148,4.99,4.953
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,17,0.9054053106153859,25.12207297921609,5.87,5.934
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,18,0.8979261646012415,26.113204246222768,7.164,7.008
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,19,0.9022300021141139,25.54724290618062,7.89,7.824
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,20,0.8802728941190411,28.32469998743592,8.93,8.76
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,21,0.8685709239577599,29.707006047049795,9.445,9.195
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,22,0.8515488442840371,31.61946804358596,10.06,9.69
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,23,0.8453131978669588,32.29449202166062,10.56,10.22
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,24,0.8345394232560132,33.43208978643343,11.82,10.914
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,25,0.8227257695890655,34.64140799715816,12.62,11.66
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,26,0.8132905210777155,35.581318508296505,13.96,12.6
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,27,0.8021694440511373,36.66222874688201,14.8,13.34
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,28,0.8060704453069012,36.286239030773615,16.78,15.44
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,29,0.7980019883065663,37.06027235794697,19.06,17.48
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,30,0.787867567122799,38.013323491717436,21.28,19.77
+logical,The hypothesis is confirmed.,The hypothesis is refuted.,31,0.776078048304683,39.097125360848935,26.38,24.28
+logical,The evidence supports the claim.,The evidence contradicts the claim.,0,0.7805911681554077,38.68526588858665,0.0402,0.0445
+logical,The evidence supports the claim.,The evidence contradicts the claim.,1,0.8843551030964751,27.82773574574799,0.09607,0.105
+logical,The evidence supports the claim.,The evidence contradicts the claim.,2,0.8695527215510512,29.593295604990338,0.1492,0.1565
+logical,The evidence supports the claim.,The evidence contradicts the claim.,3,0.8711404661036661,29.408559321222256,0.2264,0.2418
+logical,The evidence supports the claim.,The evidence contradicts the claim.,4,0.8735243626490473,29.129187386698675,0.3467,0.364
+logical,The evidence supports the claim.,The evidence contradicts the claim.,5,0.8791483134000493,28.460204961649552,0.4731,0.4912
+logical,The evidence supports the claim.,The evidence contradicts the claim.,6,0.8788358200479244,28.497753592615737,0.5903,0.609
+logical,The evidence supports the claim.,The evidence contradicts the claim.,7,0.8760105261972324,28.83520240938636,0.95,0.9937
+logical,The evidence supports the claim.,The evidence contradicts the claim.,8,0.8620616191314544,30.451144564373344,1.236,1.237
+logical,The evidence supports the claim.,The evidence contradicts the claim.,9,0.8412105215397678,32.731830675687355,1.481,1.438
+logical,The evidence supports the claim.,The evidence contradicts the claim.,10,0.8555882450723052,31.175217556743096,1.684,1.645
+logical,The evidence supports the claim.,The evidence contradicts the claim.,11,0.8752411294059596,28.926473932514988,2.082,2.06
+logical,The evidence supports the claim.,The evidence contradicts the claim.,12,0.8845265523014927,27.80668513633492,2.27,2.268
+logical,The evidence supports the claim.,The evidence contradicts the claim.,13,0.8598941779650489,30.69529672445576,2.71,2.682
+logical,The evidence supports the claim.,The evidence contradicts the claim.,14,0.8209042824306646,34.82458139713517,3.107,3.076
+logical,The evidence supports the claim.,The evidence contradicts the claim.,15,0.8222874791929318,34.685560876730584,3.807,3.92
+logical,The evidence supports the claim.,The evidence contradicts the claim.,16,0.8140441738574431,35.50703868762529,4.914,5.12
+logical,The evidence supports the claim.,The evidence contradicts the claim.,17,0.7978335141139687,37.076286623718964,5.84,5.996
+logical,The evidence supports the claim.,The evidence contradicts the claim.,18,0.8032036533929596,36.56287300208354,6.93,7.117
+logical,The evidence supports the claim.,The evidence contradicts the claim.,19,0.8111915610784806,35.78748594752993,7.715,7.883
+logical,The evidence supports the claim.,The evidence contradicts the claim.,20,0.7913924476418669,37.684171054680725,8.914,9.26
+logical,The evidence supports the claim.,The evidence contradicts the claim.,21,0.7925683142297184,37.57382360132463,9.33,9.95
+logical,The evidence supports the claim.,The evidence contradicts the claim.,22,0.7784360073983861,38.88240007406485,9.82,10.375
+logical,The evidence supports the claim.,The evidence contradicts the claim.,23,0.7786963185883671,38.8586339433308,10.336,11.09
+logical,The evidence supports the claim.,The evidence contradicts the claim.,24,0.762899676193205,40.27950187975751,11.445,11.57
+logical,The evidence supports the claim.,The evidence contradicts the claim.,25,0.7514761298056625,41.2815929027124,12.086,12.3
+logical,The evidence supports the claim.,The evidence contradicts the claim.,26,0.7560395178003512,40.88371638005914,13.16,13.43
+logical,The evidence supports the claim.,The evidence contradicts the claim.,27,0.7598353106240618,40.550318611911266,14.05,14.336
+logical,The evidence supports the claim.,The evidence contradicts the claim.,28,0.7633163281735471,40.24256319156823,16.17,16.69
+logical,The evidence supports the claim.,The evidence contradicts the claim.,29,0.7655525406371215,40.043826449363365,18.42,18.88
+logical,The evidence supports the claim.,The evidence contradicts the claim.,30,0.7554711800117204,40.93344251484041,20.56,21.1
+logical,The evidence supports the claim.,The evidence contradicts the claim.,31,0.7607159600529154,40.47264393900834,25.55,25.36
+binary_state,The light is on.,The light is off.,0,0.7979268652777796,37.06741388776814,0.05927,0.04733
+binary_state,The light is on.,The light is off.,1,0.7951879885795055,37.32698475447811,0.1348,0.1168
+binary_state,The light is on.,The light is off.,2,0.8121196903395496,35.69644909006238,0.1954,0.176
+binary_state,The light is on.,The light is off.,3,0.8263416517229949,34.27524913212345,0.311,0.2893
+binary_state,The light is on.,The light is off.,4,0.8458737928178666,32.23432324755965,0.4407,0.4263
+binary_state,The light is on.,The light is off.,5,0.8714036954845685,29.377830053897302,0.5825,0.5757
+binary_state,The light is on.,The light is off.,6,0.9014736397157678,25.647548206234454,0.7397,0.7217
+binary_state,The light is on.,The light is off.,7,0.9288850096689816,21.73832985256405,1.078,1.097
+binary_state,The light is on.,The light is off.,8,0.9395669658012153,20.021039317959715,1.397,1.431
+binary_state,The light is on.,The light is off.,9,0.9396811289309672,20.001925045676277,1.753,1.733
+binary_state,The light is on.,The light is off.,10,0.9485405060314598,18.46080311928962,2.006,1.99
+binary_state,The light is on.,The light is off.,11,0.9581732073869368,16.629929857321375,2.363,2.336
+binary_state,The light is on.,The light is off.,12,0.9613295993142705,15.985879092585979,2.53,2.531
+binary_state,The light is on.,The light is off.,13,0.9580319783249137,16.658180970462638,2.988,2.97
+binary_state,The light is on.,The light is off.,14,0.9464061924544585,18.84316735784233,3.396,3.31
+binary_state,The light is on.,The light is off.,15,0.914491855628701,23.86633341831615,4.26,4.33
+binary_state,The light is on.,The light is off.,16,0.886898827812931,27.513894877273163,5.445,5.473
+binary_state,The light is on.,The light is off.,17,0.8603926896765484,30.639297306187224,6.29,6.367
+binary_state,The light is on.,The light is off.,18,0.8436502069982454,32.4723961598634,7.633,7.74
+binary_state,The light is on.,The light is off.,19,0.83801569255021,33.068828950349825,8.44,8.586
+binary_state,The light is on.,The light is off.,20,0.8144009841890301,35.471824445013894,9.49,9.625
+binary_state,The light is on.,The light is off.,21,0.8042673193122751,36.46044447322559,9.79,9.98
+binary_state,The light is on.,The light is off.,22,0.7906696948062781,37.751860377646736,10.33,10.625
+binary_state,The light is on.,The light is off.,23,0.7811309234186865,38.635761376370816,10.96,11.234
+binary_state,The light is on.,The light is off.,24,0.7467588870775266,41.68960273007931,11.54,11.8
+binary_state,The light is on.,The light is off.,25,0.7418520989610142,42.11057411959278,12.234,12.52
+binary_state,The light is on.,The light is off.,26,0.7427533587552277,42.03350931797616,13.21,13.59
+binary_state,The light is on.,The light is off.,27,0.7423668956746019,42.06656901581285,14.1,14.35
+binary_state,The light is on.,The light is off.,28,0.742189503289538,42.08173683984537,16.12,16.27
+binary_state,The light is on.,The light is off.,29,0.7388218824122594,42.368845500783515,18.03,18.14
+binary_state,The light is on.,The light is off.,30,0.7357529814221847,42.629119600870034,20.03,20.36
+binary_state,The light is on.,The light is off.,31,0.7223257467101671,43.75316626711461,24.64,24.55
+binary_state,The door is open.,The door is closed.,0,0.9071248053150005,24.88900344882361,0.04636,0.0445
+binary_state,The door is open.,The door is closed.,1,0.8842439921491996,27.84137017598785,0.11334,0.1079
+binary_state,The door is open.,The door is closed.,2,0.8766946116819182,28.753828789701704,0.1652,0.1675
+binary_state,The door is open.,The door is closed.,3,0.8744756361223203,29.017022042240942,0.2783,0.2646
+binary_state,The door is open.,The door is closed.,4,0.8912595955582214,26.96804368691844,0.4097,0.4058
+binary_state,The door is open.,The door is closed.,5,0.9058275664353204,25.065026005022226,0.567,0.5713
+binary_state,The door is open.,The door is closed.,6,0.9280265385037431,21.87075123485527,0.73,0.73
+binary_state,The door is open.,The door is closed.,7,0.9415677480461249,19.683471794890895,1.023,1.087
+binary_state,The door is open.,The door is closed.,8,0.9422075958342664,19.57433913761974,1.337,1.366
+binary_state,The door is open.,The door is closed.,9,0.9386046071877432,20.18147651207405,1.695,1.704
+binary_state,The door is open.,The door is closed.,10,0.9489841306816574,18.38036440313719,1.984,1.967
+binary_state,The door is open.,The door is closed.,11,0.9581273709284943,16.639103978272935,2.324,2.318
+binary_state,The door is open.,The door is closed.,12,0.9607450413750573,16.1070465160625,2.533,2.525
+binary_state,The door is open.,The door is closed.,13,0.9566514949981562,16.9319175895821,2.979,2.967
+binary_state,The door is open.,The door is closed.,14,0.9395588568453983,20.02239633050758,3.352,3.336
+binary_state,The door is open.,The door is closed.,15,0.9136834676503597,23.9805515271693,4.184,4.215
+binary_state,The door is open.,The door is closed.,16,0.8884479653705105,27.32113778659455,5.58,5.477
+binary_state,The door is open.,The door is closed.,17,0.8763576293006065,28.793939935733906,6.473,6.344
+binary_state,The door is open.,The door is closed.,18,0.884246585899776,27.841051966747745,8.01,7.7
+binary_state,The door is open.,The door is closed.,19,0.8849148286942107,27.75895808711388,8.85,8.57
+binary_state,The door is open.,The door is closed.,20,0.8734539197398798,29.137477690154462,9.945,9.57
+binary_state,The door is open.,The door is closed.,21,0.8652920332937322,30.08393162007593,10.36,9.91
+binary_state,The door is open.,The door is closed.,22,0.8591806782377542,30.77528641346058,10.91,10.37
+binary_state,The door is open.,The door is closed.,23,0.8596224089118933,30.725786612971167,11.59,10.96
+binary_state,The door is open.,The door is closed.,24,0.8446794066127823,32.36239679606716,12.23,11.34
+binary_state,The door is open.,The door is closed.,25,0.839511833004878,32.91139376042946,12.97,11.98
+binary_state,The door is open.,The door is closed.,26,0.8411715506188826,32.73595997505223,14.25,12.95
+binary_state,The door is open.,The door is closed.,27,0.8413457632046337,32.71749708222848,15.26,13.805
+binary_state,The door is open.,The door is closed.,28,0.8450537302229507,32.322306916811506,17.53,15.85
+binary_state,The door is open.,The door is closed.,29,0.8457165798344497,32.251207052854355,19.78,17.81
+binary_state,The door is open.,The door is closed.,30,0.8410860373094708,32.74501921304574,21.84,19.77
+binary_state,The door is open.,The door is closed.,31,0.8243299376124116,34.479384029710346,26.69,24.33
+binary_state,The system is active.,The system is inactive.,0,0.7936611804528807,37.47101695731978,0.04248,0.04684
+binary_state,The system is active.,The system is inactive.,1,0.811955566412762,35.712562055568704,0.1017,0.10925
+binary_state,The system is active.,The system is inactive.,2,0.840611321039773,32.795269980010126,0.1522,0.1587
+binary_state,The system is active.,The system is inactive.,3,0.8320559840891923,33.68947981887434,0.2373,0.2356
+binary_state,The system is active.,The system is inactive.,4,0.8466416188668335,32.151749317127816,0.3577,0.3618
+binary_state,The system is active.,The system is inactive.,5,0.8778563895654887,28.615147693866312,0.5083,0.5186
+binary_state,The system is active.,The system is inactive.,6,0.9037247496255161,25.347927774539865,0.6797,0.674
+binary_state,The system is active.,The system is inactive.,7,0.9008829382558872,25.725630675412624,1.005,1.062
+binary_state,The system is active.,The system is inactive.,8,0.8871562933250239,27.48194520642982,1.27,1.294
+binary_state,The system is active.,The system is inactive.,9,0.876604974678435,28.764503311059965,1.55,1.493
+binary_state,The system is active.,The system is inactive.,10,0.8806326326159282,28.28122808151838,1.794,1.696
+binary_state,The system is active.,The system is inactive.,11,0.8738839883035839,29.08683007442185,2.182,2.064
+binary_state,The system is active.,The system is inactive.,12,0.8850058058082271,27.747764227575956,2.412,2.299
+binary_state,The system is active.,The system is inactive.,13,0.8518873908475556,31.58245032697861,2.809,2.682
+binary_state,The system is active.,The system is inactive.,14,0.8394471556464559,32.918213411798696,3.258,3.084
+binary_state,The system is active.,The system is inactive.,15,0.8122007736253398,35.688486361619866,3.94,3.928
+binary_state,The system is active.,The system is inactive.,16,0.7862064494841691,38.16760182956217,5.363,5.066
+binary_state,The system is active.,The system is inactive.,17,0.7625144052986749,40.3136334580463,5.95,5.89
+binary_state,The system is active.,The system is inactive.,18,0.7485990332812761,41.530832867809764,7.26,7.105
+binary_state,The system is active.,The system is inactive.,19,0.7525404223188097,41.18908108795285,8.195,7.906
+binary_state,The system is active.,The system is inactive.,20,0.7199790514130188,43.94724908923275,9.13,8.86
+binary_state,The system is active.,The system is inactive.,21,0.6998843119466622,45.582276931039544,9.61,9.15
+binary_state,The system is active.,The system is inactive.,22,0.6906137847010805,46.321285097848396,10.266,9.586
+binary_state,The system is active.,The system is inactive.,23,0.6780679254404092,47.30715221307873,10.84,10.11
+binary_state,The system is active.,The system is inactive.,24,0.630935486644891,50.88082518433383,12.0,10.72
+binary_state,The system is active.,The system is inactive.,25,0.6287786602654977,51.03992832250154,12.91,11.3
+binary_state,The system is active.,The system is inactive.,26,0.6340682351677387,50.64908857949793,13.93,12.13
+binary_state,The system is active.,The system is inactive.,27,0.6305424514250664,50.90984503356273,14.76,12.8
+binary_state,The system is active.,The system is inactive.,28,0.6211297528435928,51.60131797260708,16.88,14.516
+binary_state,The system is active.,The system is inactive.,29,0.6247601132399403,51.33541743120789,19.28,16.33
+binary_state,The system is active.,The system is inactive.,30,0.6272436123055922,51.15294723764935,21.4,18.17
+binary_state,The system is active.,The system is inactive.,31,0.6302190094373304,50.93371749607295,26.97,21.89
+evaluative,This outcome is good.,This outcome is bad.,0,0.917153956090817,23.486506595061755,0.04495,0.04523
+evaluative,This outcome is good.,This outcome is bad.,1,0.8387658229147532,32.98997787062983,0.1067,0.1092
+evaluative,This outcome is good.,This outcome is bad.,2,0.8494470262167122,31.84842424497497,0.16,0.1643
+evaluative,This outcome is good.,This outcome is bad.,3,0.8330160930928966,33.590178125339754,0.2393,0.2448
+evaluative,This outcome is good.,This outcome is bad.,4,0.8638431799537162,30.24912711551481,0.3872,0.3987
+evaluative,This outcome is good.,This outcome is bad.,5,0.8641653804750546,30.21246117145882,0.4868,0.507
+evaluative,This outcome is good.,This outcome is bad.,6,0.8746586243273751,28.99540035508848,0.6064,0.633
+evaluative,This outcome is good.,This outcome is bad.,7,0.8935854996318702,26.672684236223926,0.9326,0.955
+evaluative,This outcome is good.,This outcome is bad.,8,0.9034194241207278,25.38875969437875,1.208,1.279
+evaluative,This outcome is good.,This outcome is bad.,9,0.8895892175438569,27.17832654280597,1.592,1.615
+evaluative,This outcome is good.,This outcome is bad.,10,0.9095730250507175,24.553586713215836,1.833,1.871
+evaluative,This outcome is good.,This outcome is bad.,11,0.9127756478839926,24.108211357950523,2.21,2.322
+evaluative,This outcome is good.,This outcome is bad.,12,0.9038762459440861,25.327644988282902,2.354,2.441
+evaluative,This outcome is good.,This outcome is bad.,13,0.8818332175757618,28.13569975035061,2.77,2.793
+evaluative,This outcome is good.,This outcome is bad.,14,0.8589651578240081,30.79941131963086,3.258,3.16
+evaluative,This outcome is good.,This outcome is bad.,15,0.8426994072528622,32.57372218010298,3.951,3.986
+evaluative,This outcome is good.,This outcome is bad.,16,0.798922969007808,36.972623798871346,5.316,5.133
+evaluative,This outcome is good.,This outcome is bad.,17,0.7606627696017674,40.477338921064145,6.266,5.99
+evaluative,This outcome is good.,This outcome is bad.,18,0.7128762163033313,44.53058333395586,7.688,7.633
+evaluative,This outcome is good.,This outcome is bad.,19,0.7085475928311229,44.88313397247554,8.49,8.24
+evaluative,This outcome is good.,This outcome is bad.,20,0.6031776816282871,52.90217705947402,11.01,9.734
+evaluative,This outcome is good.,This outcome is bad.,21,0.5750495491855164,54.896897771235544,11.32,10.23
+evaluative,This outcome is good.,This outcome is bad.,22,0.560139224367181,55.93457341861948,12.21,10.72
+evaluative,This outcome is good.,This outcome is bad.,23,0.5697331552460764,55.26838004595066,12.76,11.24
+evaluative,This outcome is good.,This outcome is bad.,24,0.5492758644706613,56.68265158006139,13.41,12.67
+evaluative,This outcome is good.,This outcome is bad.,25,0.5766369983159323,54.785647025946474,14.22,13.52
+evaluative,This outcome is good.,This outcome is bad.,26,0.5845353056603297,54.229831731485945,15.15,14.414
+evaluative,This outcome is good.,This outcome is bad.,27,0.5904499839794862,53.8110530664161,16.2,15.68
+evaluative,This outcome is good.,This outcome is bad.,28,0.5993567905126618,53.176154964440066,17.94,17.83
+evaluative,This outcome is good.,This outcome is bad.,29,0.6030161496930155,52.91377975523316,19.69,19.48
+evaluative,This outcome is good.,This outcome is bad.,30,0.5927508140616424,53.64754172156988,21.4,21.28
+evaluative,This outcome is good.,This outcome is bad.,31,0.5988980777042527,53.20898102831889,25.78,23.53
+evaluative,The performance was excellent.,The performance was terrible.,0,0.8613374700728786,30.532912749246965,0.04507,0.04282
+evaluative,The performance was excellent.,The performance was terrible.,1,0.8305372124140207,33.84603768703253,0.1037,0.1069
+evaluative,The performance was excellent.,The performance was terrible.,2,0.848542181199369,31.946538755170355,0.1627,0.1675
+evaluative,The performance was excellent.,The performance was terrible.,3,0.8416661789537356,32.683515505882376,0.2537,0.2646
+evaluative,The performance was excellent.,The performance was terrible.,4,0.8604981985991713,30.62743330042078,0.4,0.4373
+evaluative,The performance was excellent.,The performance was terrible.,5,0.8613124285555624,30.53573680331304,0.515,0.551
+evaluative,The performance was excellent.,The performance was terrible.,6,0.8741749974689815,29.052513279466957,0.6357,0.671
+evaluative,The performance was excellent.,The performance was terrible.,7,0.8806290553280673,28.281660673716168,0.986,1.039
+evaluative,The performance was excellent.,The performance was terrible.,8,0.9013864981597302,25.659081027147103,1.308,1.348
+evaluative,The performance was excellent.,The performance was terrible.,9,0.8874670205618237,27.443340456183986,1.621,1.627
+evaluative,The performance was excellent.,The performance was terrible.,10,0.9004397196949191,25.784073243454515,1.823,1.917
+evaluative,The performance was excellent.,The performance was terrible.,11,0.9058223643785486,25.065729544253482,2.197,2.318
+evaluative,The performance was excellent.,The performance was terrible.,12,0.900539986379786,25.77086293858747,2.438,2.58
+evaluative,The performance was excellent.,The performance was terrible.,13,0.8893052108809211,27.213930561519252,2.84,2.959
+evaluative,The performance was excellent.,The performance was terrible.,14,0.8645167029470794,30.17243521391422,3.355,3.307
+evaluative,The performance was excellent.,The performance was terrible.,15,0.8502919664978534,31.756560522364836,4.17,4.152
+evaluative,The performance was excellent.,The performance was terrible.,16,0.8298963707516488,33.911905753929425,5.586,5.277
+evaluative,The performance was excellent.,The performance was terrible.,17,0.8029830686105848,36.58408389296697,6.457,6.043
+evaluative,The performance was excellent.,The performance was terrible.,18,0.7734129994577628,39.3386296319904,7.805,7.305
+evaluative,The performance was excellent.,The performance was terrible.,19,0.7701371488115947,39.63379370645305,8.67,8.0
+evaluative,The performance was excellent.,The performance was terrible.,20,0.710046052822482,44.76133756385662,10.625,9.64
+evaluative,The performance was excellent.,The performance was terrible.,21,0.6935320173300288,46.0896469079592,10.9,10.08
+evaluative,The performance was excellent.,The performance was terrible.,22,0.6830762616544972,46.915496793065394,11.59,10.46
+evaluative,The performance was excellent.,The performance was terrible.,23,0.6916658957858842,46.23787595351831,12.266,11.05
+evaluative,The performance was excellent.,The performance was terrible.,24,0.6625541670056868,48.50503977513599,12.984,12.03
+evaluative,The performance was excellent.,The performance was terrible.,25,0.6693150833056752,47.98577540779717,13.89,12.87
+evaluative,The performance was excellent.,The performance was terrible.,26,0.6767256078198202,47.4117026563401,15.195,13.7
+evaluative,The performance was excellent.,The performance was terrible.,27,0.6818643859241658,47.01049491811141,16.27,14.91
+evaluative,The performance was excellent.,The performance was terrible.,28,0.6723615147269274,47.750409674958924,18.06,17.14
+evaluative,The performance was excellent.,The performance was terrible.,29,0.6702390007563961,47.91448632544874,20.45,18.95
+evaluative,The performance was excellent.,The performance was terrible.,30,0.6596727101193107,48.7250834186152,22.47,20.92
+evaluative,The performance was excellent.,The performance was terrible.,31,0.6704780137154018,47.896031144628516,27.33,23.94
+evaluative,The situation is improving.,The situation is deteriorating.,0,0.6504724588432679,49.42276727777185,0.0429,0.04422
+evaluative,The situation is improving.,The situation is deteriorating.,1,0.6902660300521987,46.34882885877257,0.0957,0.0998
+evaluative,The situation is improving.,The situation is deteriorating.,2,0.741792833080811,42.11563779902501,0.145,0.1477
+evaluative,The situation is improving.,The situation is deteriorating.,3,0.7650270858993157,40.090598243643136,0.2363,0.2379
+evaluative,The situation is improving.,The situation is deteriorating.,4,0.7988304055613565,36.9814409898573,0.3628,0.3706
+evaluative,The situation is improving.,The situation is deteriorating.,5,0.8291051908849154,33.99307109900487,0.4812,0.4993
+evaluative,The situation is improving.,The situation is deteriorating.,6,0.8520972378533023,31.559485471786417,0.617,0.61
+evaluative,The situation is improving.,The situation is deteriorating.,7,0.8758365867966271,28.8558594636546,0.945,0.913
+evaluative,The situation is improving.,The situation is deteriorating.,8,0.8750108918324827,28.953735301052877,1.287,1.272
+evaluative,The situation is improving.,The situation is deteriorating.,9,0.8485937513037457,31.94095412966603,1.513,1.518
+evaluative,The situation is improving.,The situation is deteriorating.,10,0.8652710637366678,30.0863283889254,1.733,1.757
+evaluative,The situation is improving.,The situation is deteriorating.,11,0.8636317039928717,30.273170911632832,2.148,2.201
+evaluative,The situation is improving.,The situation is deteriorating.,12,0.8677072533293728,29.806709155882814,2.424,2.473
+evaluative,The situation is improving.,The situation is deteriorating.,13,0.8620164820897698,30.456247067105647,2.781,2.89
+evaluative,The situation is improving.,The situation is deteriorating.,14,0.8506022649191476,31.72276442765218,3.16,3.215
+evaluative,The situation is improving.,The situation is deteriorating.,15,0.8417541837220378,32.674176692327585,3.887,3.996
+evaluative,The situation is improving.,The situation is deteriorating.,16,0.7996769162578731,36.90073880464108,5.316,5.164
+evaluative,The situation is improving.,The situation is deteriorating.,17,0.736449140105508,42.57019120208362,6.395,5.953
+evaluative,The situation is improving.,The situation is deteriorating.,18,0.6878914950982986,46.53656668118703,8.05,7.473
+evaluative,The situation is improving.,The situation is deteriorating.,19,0.6863594835004596,46.657383166286245,8.9,8.14
+evaluative,The situation is improving.,The situation is deteriorating.,20,0.6159737738911016,51.977289445369166,11.31,9.39
+evaluative,The situation is improving.,The situation is deteriorating.,21,0.6108746720060524,52.34722565001244,11.414,9.68
+evaluative,The situation is improving.,The situation is deteriorating.,22,0.5780298282102831,54.68790977183031,12.36,10.1
+evaluative,The situation is improving.,The situation is deteriorating.,23,0.5843791998450922,54.24085457390985,13.01,10.64
+evaluative,The situation is improving.,The situation is deteriorating.,24,0.571350016123479,55.15557976574112,13.71,11.555
+evaluative,The situation is improving.,The situation is deteriorating.,25,0.5773658606283382,54.734516216318475,14.47,12.305
+evaluative,The situation is improving.,The situation is deteriorating.,26,0.5879829965762846,53.98599421363296,15.6,13.234
+evaluative,The situation is improving.,The situation is deteriorating.,27,0.5849162182307205,54.202928565353666,16.75,14.31
+evaluative,The situation is improving.,The situation is deteriorating.,28,0.58718508796085,54.04249308068425,18.52,16.6
+evaluative,The situation is improving.,The situation is deteriorating.,29,0.5835306406074575,54.30074580561232,20.86,18.39
+evaluative,The situation is improving.,The situation is deteriorating.,30,0.5807050173627375,54.499854905046206,22.72,20.19
+evaluative,The situation is improving.,The situation is deteriorating.,31,0.6003054926203022,53.10821992234856,27.52,22.75
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,0,0.6094581354430563,52.44966706519403,0.0443,0.04755
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,1,0.8181593009396504,35.09904504967562,0.1117,0.11285
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,2,0.8454034122145053,32.28481604979519,0.1681,0.1747
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,3,0.8502553652243863,31.76054481977922,0.2644,0.276
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,4,0.8573783194171757,30.976517062250537,0.3994,0.4368
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,5,0.8797019193249072,28.393572984838045,0.5605,0.5977
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,6,0.8891670668714902,27.231233208371794,0.6953,0.7354
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,7,0.8892644314054892,27.219039279966612,1.076,1.159
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,8,0.8915266402364661,26.934284882000902,1.438,1.446
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,9,0.8778173251560446,28.619820791657265,1.693,1.667
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,10,0.892864708046286,26.7645380581694,1.931,1.893
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,11,0.9127964277259899,24.105296357212676,2.393,2.326
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,12,0.9123001026013724,24.174830627417787,2.629,2.541
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,13,0.8995704019325301,25.89834418065729,3.195,3.07
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,14,0.9078221434375262,24.793898217261624,3.826,3.752
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,15,0.9102573585797124,24.459059165602675,4.797,4.918
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,16,0.9172767131926794,23.468851953995596,6.43,6.492
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,17,0.9287969897020063,21.751942441194277,7.875,7.75
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,18,0.9370769940531916,20.433669085276485,9.016,8.92
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,19,0.9370464309019827,20.438684323606747,9.875,9.87
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,20,0.9434630741415462,19.358486956576947,11.02,10.96
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,21,0.9423851038713487,19.543959583889457,11.58,11.51
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,22,0.9418735769592358,19.631382214241242,12.06,12.055
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,23,0.9400940740930156,19.93263907101649,12.9,12.85
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,24,0.9383083466495199,20.230621308887088,13.74,13.62
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,25,0.9392268624398283,20.07787921153603,14.55,14.4
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,26,0.9412172543475186,19.74300647922635,15.66,15.56
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,27,0.9415622995419357,19.68439859807248,16.77,16.55
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,28,0.9432581808213443,19.39387158914251,19.33,19.11
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,29,0.9451480939911525,19.065092596026073,21.78,21.61
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,30,0.944404599411053,19.195081252805718,24.1,23.9
+control,Pineapple belongs on pizza.,Pineapple does not belong on pizza.,31,0.9474869539300422,18.650492838321203,29.42,29.12
